@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Library Application</title>
+    <link rel="stylesheet" href="home-style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <style>  
+            .container{  
+            text-align: right;  
+            width: 1400px;  
+            height: 10px;  
+            padding-top: 1px;  
+            }  
+            #btn{  
+            font-size: 25px;  
+            }  
+            </style>  
+
+        <div class="container">
+            <a href="index.html" class="btn btn-info btn-lg"><img src="images/log.png" width="16" height="16" /> Log out
+            </a>
+        </div>
+        <div class="header-contents">
+            <h1>Explore Movies...</h1>
+            <button_a><a href="Playlist.html" class="header-link"><img src="images/play.png" width="28" height="24" />&nbsp;My Playlist</a></button_a>
+
+        </div>
+    </header>
+    <main>
+        <div class="main-search-field">
+            <label aria-label="Search for a movie" class="hide">Search for a
+                movie</label>
+            <input type="text" for="submit" id="searchInput" placeholder="Search for a movie">
+            <button type="submit" value="Submit" id="searchBtn">Search</button>
+        </div>
+
+        <div class="main-contents" id="moviesList">
+            <div id="movielist-default-container">
+                <img src="images/movie-icon.svg" alt="Find your Movie"
+                    class="movie-icon movie-list-default-display">
+                <p class="text-grey-light fs-18 bold movie-list-default-display">Explore your movies</p>
+            </div>
+        </div>
+    </main>
+    <script src="home.js"></script>
+</body>
+
+</html>
