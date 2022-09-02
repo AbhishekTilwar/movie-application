@@ -20,7 +20,7 @@ const signUp = () => {
     firebase.auth().createUserWithEmailAndPassword(email, password)
         .then((result) => {
             // Signed in 
-            location.href = "signIn.html";
+            location.href = "index.html";
             //document.write("You are Signed Up")
             console.log(result)
             // ...
