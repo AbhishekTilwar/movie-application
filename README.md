@@ -12,3 +12,11 @@ You can access the website here: [Link](https://legendary-taiyaki-f37069.netlify
 
 ### How to Run the application on your PC ?:
 - Download the Zip File & open index file on your web browser.
+
+<h1><img src="https://user-images.githubusercontent.com/63442418/188142761-b5ab9f16-b1ac-4d69-a373-435f3d80a887.png" width="500"/><h3/>   
+<h1><img src="https://user-images.githubusercontent.com/63442418/188144089-20f86b45-e780-43c2-a997-4598bcd4428b.png" width="500"/><h3/> 
+<h1><img src="https://user-images.githubusercontent.com/63442418/188148302-a45d2ee4-a0ff-4835-9866-7c1fcc70b893.png" width="500"/><h3/>   
+<h1><img src="https://user-images.githubusercontent.com/63442418/188148613-62b7bf6e-a05f-476c-a293-c69777d1e4e7.png" width="500"/><h3/>   
+
+
+
