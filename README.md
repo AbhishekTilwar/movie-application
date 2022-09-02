@@ -1,6 +1,6 @@
 # Movie Library Application
 
-You can access the website here: [Link](https://legendary-taiyaki-f37069.netlify.app/playlist).
+You can access the website here: [Link](https://legendary-taiyaki-f37069.netlify.app/).
 
 ### A movie library web application with the below features:
 - The application has user authentication ( Sign In/ Sign Up )
