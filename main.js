@@ -46,7 +46,7 @@ const signIn = () => {
             console.log(result)
         })
         .catch((error) => {
-            err.textContent = "Please enter a valid Password"
+            err.textContent = "Please enter a valid password!"
             err.style.color = "red"
             console.log(error.code);
             console.log(error.message)
