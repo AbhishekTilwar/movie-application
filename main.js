@@ -34,6 +34,7 @@ const signUp = () => {
 
 // Sign In function
 const signIn = () => {
+    var error = document.getElementById("error");
     const email = document.getElementById("email").value;
     const password = document.getElementById("password").value;
     // firebase code
@@ -45,6 +46,8 @@ const signIn = () => {
             console.log(result)
         })
         .catch((error) => {
+            error.textContent = "Please enter a valid Password"
+            error.style.color = "red"
             console.log(error.code);
             console.log(error.message)
         });
