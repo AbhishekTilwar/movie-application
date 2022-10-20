@@ -22,5 +22,7 @@ Sample credentials (You can check using below credentials):
 <h1><img src="https://user-images.githubusercontent.com/63442418/188148302-a45d2ee4-a0ff-4835-9866-7c1fcc70b893.png" width="500"/><h3/>   
 <h1><img src="https://user-images.githubusercontent.com/63442418/188148613-62b7bf6e-a05f-476c-a293-c69777d1e4e7.png" width="500"/><h3/>   
 
+<h1>Architecture: </h1>
+<h1><img src="https://user-images.githubusercontent.com/63442418/196845731-6a7ba03f-7617-4812-a3eb-7252e45e12a4.png" width="500"/><h3/>  
 
 
